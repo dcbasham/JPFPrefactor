@@ -1,4 +1,7 @@
-# Junior Phase Final Project
+# Junior Phase Final Project (JPFP) refactored. 
+## What it is 
+Instead of trying to make sense of and re-orient myself with all of my old code, I decided to retry this "test" with my current skills as a new project for my portfolio. You can see the original project [here](https://github.com/dcbasham/HargroveAcademy.git)
+
 
 ## Getting started
 
@@ -36,7 +39,7 @@ There are some test specs already written for you to help you get started – th
 ### Views and Functionality
 
 Take a look in the wireframes folder as a reference for how your front-end _could_ look. Of course, you are encouraged to be creative and flex your own design muscles, but the wireframes should function as a good baseline/inspirational resource. Either way, the most important part of the project is that it works - **design/appearance is extra-credit**. If there ever appears to be a conflict between the wireframes and the rubric/requirements below, **go with the letter of the rubric/requirements.**
-
+<!--
 ## Other Important Info
 
 ### Video Walkthrough
@@ -51,3 +54,4 @@ Well before the deadline, we recommend practicing this by recording a very short
 - Requirements score (70%)
 - Rubric score (30%)
 - Extra credit (15% max)
+--> 
